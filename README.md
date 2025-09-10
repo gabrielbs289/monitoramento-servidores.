@@ -1,29 +1,28 @@
-# monitoramento-servidores.
+# Olá, eu sou o Gabriel!
 
-# Monitoramento de Servidores e Ambiente Virtual
+Atuo na área de **Infraestrutura de TI**, com experiência em ambientes de rede, servidores, virtualização e automação.
 
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Linguagem](https://img.shields.io/badge/Linguagem-Bash-blue)
-![Último Commit](https://img.shields.io/github/last-commit/SEU_USUARIO/NOME_REPOSITORIO)
+---
 
-## Descrição
-Aplicação para monitoramento de servidores e ambientes virtuais, permitindo acompanhar métricas como uso de CPU, memória, armazenamento e status de rede. Este projeto foi desenvolvido para aplicar conceitos de infraestrutura de TI, virtualização e automação de sistemas de forma prática.
+##  Habilidades Técnicas
 
-## Tecnologias Utilizadas
-- Linux (Ubuntu, CentOS)  
-- Virtualização: Proxmox, VMware  
-- Redes: VLAN, firewall, monitoramento de tráfego  
-- Automação: Bash e PowerShell  
-- Front-end básico: HTML5, CSS3, JavaScript  
+- Infraestrutura de TI: redes, servidores, monitoramento.
+- Virtualização: VMware, Hyper-V, Proxmox.
+- Automação de processos e infraestrutura.
+- Ambientes em cloud (básico a intermediário).
+- Paixão por soluções seguras, eficientes e escaláveis.
 
-## Aprendizados / Funcionalidades
-- **Gerenciamento de Ambientes Virtuais:** criação, manutenção e snapshots de VMs  
-- **Monitoramento e Logs:** análise de métricas críticas para alta disponibilidade  
-- **Automação de Processos:** scripts para reduzir erros operacionais  
-- **Configuração de Rede:** VLANs, firewall e políticas de acesso  
-- **Segurança e Backup:** práticas para manter servidores seguros e continuidade de serviços  
+---
 
-## Como Rodar
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
+##  Objetivo
+
+Contribuir para projetos de TI que promovam inovação com responsabilidade social e continuidade de negócios, agregando valor com excelência técnica e propósito.
+
+---
+
+##  Vamos nos conectar
+
+- [LinkedIn](insira seu link aqui)
+- Email: (opcional, se quiser disponibilizar)
+
+Estou aberto a trocas de conhecimento, network e novos desafios! 🙂
