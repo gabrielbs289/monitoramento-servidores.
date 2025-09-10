@@ -23,6 +23,6 @@ Contribuir para projetos de TI que promovam inovação com responsabilidade soci
 ##  Vamos nos conectar
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-gabriel-615687329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: (opcional, se quiser disponibilizar)
+
 
 Estou aberto a trocas de conhecimento, network e novos desafios! 🙂
